@@ -1,4 +1,4 @@
-/*
+n/*
 1) Um programa deverá possuir uma variável que armazene o salário de um funcionário. Esta variável
 salario deverá ser inicializada com o valor 4500.00. Ao término do programa, o mesmo deverá exibir no
 prompt de comandos o valor do salário do funcionário.
